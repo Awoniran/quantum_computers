@@ -1,0 +1,1 @@
+Aim at studying about quantum computing, this repositories is all about my personal research on Quantum computing. Jotting all Qubit of information on this repository. I know one day I will become a champion. "Once we accept our limits, we go beyond them"
